@@ -1,4 +1,4 @@
-baseURL = 'http://mfcworks.com/'
+#baseURL = 'http://mfcworks.com/'
 languageCode = 'ja-jp'
 title = 're: trivial affair'
 theme = 'PaperMod'
